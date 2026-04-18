@@ -29,11 +29,11 @@ This project focuses on designing a compact and efficient development board base
 ## 🖼️ Preview  
 
 ### 3D View  
-![3D View]<img width="1256" height="578" alt="image" src="https://github.com/user-attachments/assets/b6fa009e-f2d6-4fb7-8408-4b185a8b4127" />
+<img width="1256" height="578" alt="image" src="https://github.com/user-attachments/assets/b6fa009e-f2d6-4fb7-8408-4b185a8b4127" />
 
 
 ### Schematic  
-![Schematic]<img width="949" height="671" alt="image" src="https://github.com/user-attachments/assets/9cad5fc0-f701-4636-ac26-52649c17e0c3" />
+<img width="949" height="671" alt="image" src="https://github.com/user-attachments/assets/9cad5fc0-f701-4636-ac26-52649c17e0c3" />
 ---
 
 ## 🛠️ Tools Used  
