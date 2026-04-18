@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "X1-cache") (type "Legacy") (uri "/home/harshu/STM32F103C8T6_Development_Board/X1-cache.lib") (options "") (descr "Legacy project cache library"))
+)
